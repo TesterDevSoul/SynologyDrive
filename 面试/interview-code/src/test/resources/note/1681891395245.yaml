@@ -1,0 +1,12 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "深圳-华泰证券"
+  level: null
+  other: null
+subject: "* a=1然后+1这个过程引用了多少次物理地址\n* cpu满了怎么办，如何定位问题\n* Python的多线程\n* 堆栈的原理\n* 工厂模\
+  式是否了解\n* 产生死锁了，但是日志里没有打印，如何定位问题\n* 系统的稳定性如何测试\n* java是如何看堆栈的\n* cpu拉满后定位问题的具体步骤"
+type: null
+options: null
+introduction: null

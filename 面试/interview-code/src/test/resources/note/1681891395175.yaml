@@ -1,0 +1,15 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "北京-滴滴"
+  level: null
+  other: null
+subject: "## 自动化测试\n* 介绍一下你们的业务，测试框架\n* 自动化测试，具体怎么开展的\n\n## 数据库\n* 联合查询，用法\n* 左连接\
+  \ 右连接的区别，\n* delete drop truncate 三种删除的区别。\n* 对索引的认识，\n* 怎么查这个表的索引\n\n## Linux\n\
+  * 查看日志、\n* 查看后10行、\n* 查看端口号、\n* sed用法，\n* 全局替换A->B 具体命令是什么？\n\n## 软技能\n* 测试环境是谁来\
+  维护的，具体怎么做\n* 测试中发现了什么问题\n* 有没有开发一些什么测试工具或者平台\n* 测试过程中做不做code review\n* 自动化测试后续的规\
+  划\n* 有什么想问的么？\n\n## 代码题\n* 对于字符串bdackmkdbb,输出第二个只出现一次的字符, 输出c"
+type: null
+options: null
+introduction: null

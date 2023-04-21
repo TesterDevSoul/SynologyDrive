@@ -1,0 +1,13 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "北京-飞猪"
+  level: null
+  other: null
+subject: "\n## 测试基础\n\n* 你在 XX 项目中测试流程是什么？\n* 黑盒白盒测试\n\n## 语言方面\n* 装饰器\n* 闭包\n* 多线\
+  程\n* 网络编程\n\n## linux方面\n\n## 计算机基础\n\n## 自动化方面，\n* 你是如何将 XX 项目实现为自动化的？\n## 接口测试\
+  ，\n## 容器部署方面，\n* docker、Jenkins，k8s\n## 算法方面\n"
+type: null
+options: null
+introduction: null

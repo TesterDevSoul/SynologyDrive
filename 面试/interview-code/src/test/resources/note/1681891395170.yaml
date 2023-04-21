@@ -1,0 +1,14 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "成都 - 用友"
+  level: null
+  other: null
+subject: "* 自我介绍，\n* 软件测试的流程\n* 接口测试的流程是什么？准备工作有哪些？\n* 编写UI自动化的代码的流程，还有定位方式，断言方式，以\
+  及定位到的元素是怎么保存和使用的\n* 数据库的去重，排序，分组，内连接，外连接\n* 数据库支持的哪三种语言是什么？\n* 是否做过redis和nginx的测\
+  试，具体怎么开展的\n* Liunx查看日志、部署相关命令\n* 性能测试如何开展的？\n* 给你一个沙发你从什么方面来进行测试\n* redis 删除、丢失、\
+  击穿\n* https和http的区别"
+type: null
+options: null
+introduction: null

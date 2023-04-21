@@ -1,0 +1,23 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "北京-恒安嘉新"
+  level: null
+  other: null
+subject: "## Python\n\n\n\n* 深浅拷贝\n* 各数据结构特点、区别\n* 垃圾回收机制\n* Python 缓冲池\n* 装饰器原理与实\
+  现\n* 线程，进程，协程区别、实现\n* 迭代器与生成器等\n\n\n## 接口自动化\n\n\n\n* 断言接口状态响应码，部分字段\n* 如何提高编写测试\
+  用例的速度？\n* 如何提高接口的稳定性，\n* 如何确保接口数据真实性，\n* 接口测试如何设计测试用例？\n* 使用过Pytest 测试框架吗？用到哪些功能\
+  ？\n\n\n\n\n## UI 自动化测试\n\n\n* UI 自动化扩展有做过吗？如：增加 log 存储，Allure 报告存储\n\n## 自动化测试原理\
+  \n\n* Selenium 自动化原理，\n* 接口 Requests 原理，\n* 接口 Mitmproxy 代理原理（中间人攻击），\n* Appium\
+  \ 自动化测试原理；\n\n\n## 关于计算机网络\n\n\n\n\n* 网络七层模型，TCP/IP模型\n* UDP 与 TCP 区别\n* HTTP 与\
+  \ HTTPS 区别\n* session、token、cookie 区别\n* 常见网络状态响应码\n\n\n\n\n## 数据库 MySQL\n\n\n\n\
+  \n* 内连接inner join，\n* 左链接left join ，\n* 右链接right join（\n* 要知道左右连接的区别），\n* union，\
+  \n* 子查询，\n* 排序order by，\n* 分组group by ，\n* 过滤having，\n* 去重distinct，\n* 事务，\n* 索引\
+  类型、\n* 原理，\n* 存储过程，\n* 慢 SQL，\n* 优化\n\n\n## 测试思维\n\n\n* 你以往工作经验中的整体项目生命周期流程是什么？可\
+  以详细说说具体功能的系统流程\n* 你是如何设计测试计划、测试用例、测试报告的？\n* 项目中如何做的接口测试，接口测试流程是什么？\n\n\n\n\n## Linux常\
+  用命令：\n\n\n\n\n* 如何查看帮助文档？\n* 查看当前系统都有哪些进程？\n* 查看系统都开启了哪些端口？\n* 如何杀死一个进程？\n* 怎么重启\
+  \ Linux 服务器：\n\n "
+type: null
+options: null
+introduction: null

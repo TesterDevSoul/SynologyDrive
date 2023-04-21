@@ -1,0 +1,23 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "上海-知至恒"
+  level: null
+  other: null
+subject: "\n## Python语言\n\n\n* LEGB法则，\n* 迭代器，\n* 生成器，\n* 装饰器，\n* 多线程，\n* os操作目录。\n\
+  * 全局GIL锁、\n* 垃圾回收机制、\n* python协程机制\n\n\n\n\n## Pytest\n\n\n\n* fixture，\n* 如何灵活指\
+  定收集用例，\n* 常用插件使用，\n* pytest钩子函数。\n\n\n## UI自动化测试\n\n* selenium的框架，\n* 等待方式（显式，隐式\
+  ，显式内置的常用等待条件），\n* 定位方式xpath（轴定位，函数）/css，\n* 鼠标键盘交互，切换，\n* 执行js脚本，\n* 文件上传，\n* 弹窗\
+  处理，\n* page object模式：比一比不使用和使用的区别，为什么使用page object模式，它比正常的写代码有什么优点。\n\n\n## 持续集成\
+  \n\n\n* jenkins，\n* 流水线语法，\n* 触发方式，\n* 任务间调用。\n\n\n## Linux 命令\n\n\n\n* awk，sed，\
+  grep\n* 将所有或指定名称docker重启，\n* 统计log中error次数，\n* 全局替换某些字符\n\n\n## 网络\n\n* OSI七层模型，\
+  \n* udp和tcp区别，\n* http1.0到2.0改进，\n* 网址输入url之后产生了哪些过程，\n* http的方法有哪些，\n* restful\
+  \ api，cookie session和token区别\n\n\n## 数据库\n\n* 内连接，\n* 左连接，\n* 右连接区别，\n* order by，\
+  \n* group by，\n* 子查询，\n* 事务特性ACID\n* 乐观锁悲观锁，\n* 事务隔离级别，\n* 存储过程，\n* 慢查询。\n\n\n\n\
+  \n## 平台开发\n\n\n\n### 后端，\n* restful-api，\n* flask使用插件，\n* 路由管理，\n* 数据库设计（表关联），\n\
+  * 缓存redis使用，\n* 异步任务队列使用\n\n### 前端，\n* 路由管理，\n* 请求管理，\n* 组件使用，\n* 父子组件参数传递，\n* vue生\
+  命周期"
+type: null
+options: null
+introduction: null

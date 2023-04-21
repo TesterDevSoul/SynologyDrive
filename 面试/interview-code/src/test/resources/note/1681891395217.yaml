@@ -1,0 +1,19 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "深圳-其他公司"
+  level: null
+  other: null
+subject: "\n## sql 相关\n* where后面不要用null <> !=\n* 不要用join\n* 表定义不要有冗余\n\n## sql优化\n\
+  * 系统层面\n* 分库分表，读写分离，表分区，合理的新建索引（根据查询较多的where 条件）,使用缓存\n\n## SQL&redis\n* 数据持久化，将\
+  内存数据保存在磁盘，重启时可以再次加载并使用\n* 数据类型：string list, set, zset, hash\n* 数据备份（主从模式）\n\n##\
+  \ Python：\n* is 和 ==的区别\n* Python装饰器\n* 算法题，冒泡排序，\n* [{()}] 判断是否为有效的括号\n\n* http与\
+  https的区别？\n* https是怎么实现的？\n* TCP的七层模型？IP在哪一层？\n\n## linux:\n* 一行代码杀掉python 进程\n\n\
+  ## Kafka的特性:\n* 高吞吐量、低延迟：kafka每秒可以处理几十万条消息，它的延迟最低只有几毫秒\n* 可扩展性：kafka集群支持热扩展\n* 持\
+  久性、可靠性：消息被持久化到本地磁盘，并且支持数据备份防止数据丢失\n* 容错性：允许集群中节点失败（若副本数量为n,则允许n-1个节点失败）\n* 高并发：支\
+  持数千个客户端同时读写\n\n## Kafka一些重要设计思想:\n* Consumergroup：各个consumer可以组成一个组，每个消息只能被组中的一个\
+  consumer消费，如果一个消息可以被多个consumer消费的话，那么这些consumer必须在不同的组\n"
+type: null
+options: null
+introduction: null

@@ -1,0 +1,16 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "深圳 -OPPO"
+  level: null
+  other: null
+subject: "\n## 测试框架\n* 测试框架如何制定\n* 测试运行时间及如何保证框架的稳定性\n* case稳定性设置、监听器、重试机制\n\n## 代\
+  码覆盖率\n* jacoco原理、allure报告设计\n* 覆盖率全量、增量\n\n## 中间键\n* redis击穿、穿透的区别是什么？如何设计用例及测试\n\
+  \n\n## linux相关：\n* 如何获取 log 日志第一列？\n* 如何查看io消耗？\n* 如何查看服务器内存？\n* 如何查看服务器磁盘空间？\n\n\
+  ## 数据库\n* 分组查询\n* 死锁（悲观锁、乐观锁）及如何解决、\n* 读写锁\n\n主流操作系统原理、网络协议（TCP、UDP）、三次握手四次挥手\n\n\
+  ## 自动化测试\n* selenium原理是什么？\n* UI测试和接口测试错误如何分析？\n\n## 性能测试\n性能测试接口响应慢应该如何分析？\n\n\n\
+  ## 软技能\n* 为什么要离职？\n* 你所负责业务难点\n* 设计淘宝搜索测试用例"
+type: null
+options: null
+introduction: null

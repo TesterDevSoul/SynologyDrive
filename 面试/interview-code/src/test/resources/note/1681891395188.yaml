@@ -1,0 +1,15 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "深圳-深信服"
+  level: null
+  other: null
+subject: "\n## 测试工具\n\n* 介绍一下测试中常用的工具（\n* 用什么工具对用例进行管理\n* 怎么使用elk定位日志\n* Xshell如何登\
+  录，如何切换目录\n* 埋点测试怎么测试，使用什么工具，数据要不要入库\n\n## 接口测试\n* 介绍fiddler和postman的区别\n* 怎么使用postman进\
+  行多个接口请求？\n* 日常工作中jmeter是怎么用的？\n* 例举熟悉的自动化测试工具，并说明其实现原理\n\n\n## 测试管理\n\n\n* 如果项目周\
+  期很短，测试人力匮乏，你是怎么协调的？\n* 你团队的测试如何进行分工？\n* 对于团队成员，你是如何打kpi的？\n* 做了哪些来提升版本质量？\n* 如何做\
+  好软件测试管理人员？\n\n\n"
+type: null
+options: null
+introduction: null

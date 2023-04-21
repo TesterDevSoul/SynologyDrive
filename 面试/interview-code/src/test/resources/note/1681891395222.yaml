@@ -1,0 +1,12 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "深圳-虾皮-二面"
+  level: null
+  other: null
+subject: "二面：\n* 自动化测试，pytest\n* 性能测试，会问压测遇到的问题，怎么分析，怎么解决\n* 消息中间件kafka重复消费问题怎么解决\n\
+  * 持续集成CI/CD\n* 如何保证项目质量\n\n"
+type: null
+options: null
+introduction: null

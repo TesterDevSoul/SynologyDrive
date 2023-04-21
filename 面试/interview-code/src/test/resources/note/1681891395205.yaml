@@ -1,0 +1,13 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "北京 - 蚂蚁金服（网商银行）- 二面"
+  level: null
+  other: null
+subject: "* 自我介绍\n* 线上问题治理\n* 压测：关注的指标， 从头到尾说一下。分析qps上不去的情况。\n* 线程的新建、停止。\n* 线程池有哪\
+  几种。固定长度， 如果超出了是什么情况。线程阻塞。\n* mysql：索引的优缺点，怎么用。联合索引让你选择（最左原则）。最左原则是啥\n* 场景题：直播的输入\
+  框用例设计\n* shell命令：找出一个文件第10行，并打印出来。。\n* 算法：快排+优化、链表环的判断"
+type: null
+options: null
+introduction: null

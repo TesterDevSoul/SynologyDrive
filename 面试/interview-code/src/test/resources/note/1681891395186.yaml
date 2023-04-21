@@ -1,0 +1,15 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "北京 - 路孚特"
+  level: null
+  other: null
+subject: "## 接口测试\n* 做接口测试，依赖登录接口怎么办\n* postman怎么录入接口比较快\n\n## 性能测试\n* 说说jmeter都用过\
+  哪些组件\n* 性能测试会看哪些指标？主要是看服务器端还是客户端的性能？\n\n## 其他\n* ArrayList和LinkedList的区别\n* 经常用哪\
+  些数据类型，说一下自动拆装箱\n* testNG的workflow是什么样的，说说dataProvider关键字\n* 说说PO设计模式，以及实际运用场景。除了\
+  易于维护之外，还有哪些特点？\n* 在服务器上查日志，如何找到想要的报错信息\n* 说说jenkins持续集成\n* git经常用的几个命令，怎么切分支，怎么解\
+  决冲突？\n* 有没有从头跟过一个完整的项目，说说整个测试流程"
+type: null
+options: null
+introduction: null

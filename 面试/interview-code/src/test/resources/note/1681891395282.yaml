@@ -1,0 +1,55 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "金山办公面试题 1-3年"
+  level: null
+  other: null
+subject: "测试开发  岗位职责：\n1、负责客户端/服务端工具开发与维护；\n任职要求：\n1、JAVA基础扎实，包括JVM、IO、多线程、并发、网络，深\
+  刻理解面向对象、设计原则、封装抽象等\n2、学习能力强，有较强的问题分析和处理能力，具有团队合作精神\n3、同时掌握go/Python等会优先考虑\n\n\n一\
+  、一轮技术面（接近40分钟）\n\n1.问了一个最优技术含量的项目\n    Java+Selenium+TestNG+Jenkins  UI自动化测试框架及接\
+  口自动化测试框架  讲解了很久 这部分时间占用很久\n\n2.线程与进程的区别，以及他们的优势与缺陷\n    区别：例如电脑上打开一个微信软件，这就是打开一个\
+  进程，然后再软件中进行发消息，查看公众号消息这些就是线程。\n        一个线程只属于一个进程，而一个进程可以拥有多个线程。线程是进程工作的最小单位。\n\
+  \n         多线程工作：锁的概念，一个房间上一个锁，也就是一个线程。采用消息队列实现不同进程同步\n         线程作为调度和分配的基本单位，进\
+  程作为拥有资源的基本单位。\n         线程在执行过程中，需要协作同步。不同进程的线程要利用消息通信的办法实现同步。\n\n    进程的优缺点\n \
+  \       优点：每一个进程相互独立，不影响主程序的稳定性，子进程崩溃不影响其他进程。通过减少线程加锁与解锁的影响，极大提升了性能\n        缺点：\
+  逻辑控制复杂，需要与主程序交互，多进程调度开销大。\n    线程的优缺点：\n        优点：程序逻辑和控制方式简单  所有线程可以直接共享内存和变量等\
+  。\n        缺点：每个线程与主程序之间共用地址空间，最大内存地址受限。\n               线程之间的不同与加锁不易控制（例如死锁）\n\n\
+  \    总结：根据业务逻辑来使用多进程和多线程。但是比较常见的是：\n        将处理相同任务的列为一个进程下的线程，采用多进程结合多线程的方式来开发。\
+  \n\n3.设计模式\n    单例模式：单例类只能有一个实例、单例类必须创建自己的唯一实例\n    PO设计模式：\n    工厂模式：在编码的时候不能预见\
+  需要创建哪种类的实例。\n\n\n4.Java泛型\n    针对方法或者类进行泛型的返回。\n\n\n5.和其他人协作，了解到的技术\n    SpringBoot、\
+  Rancher、Apollo、RabbitMQ(多进程通信)\n\n6.缓存雪崩\n    Redis缓存穿透：\n        用户请求不存在的key，缓存\
+  中不存在，请求会绕过缓存直接查询数据库导致性能下降\n        如果用户恶意多次请求多次查询数据库将会导致后台崩溃。\n\n        缓存层缓存该空\
+  值，为避免过多空值占用空间，给空值过期时间。\n        存储层更新代码，缓存层还是空值，可删除空值并存入缓存\n\n    Redis缓存雪崩：\n \
+  \       缓存失效期间请求将会去查询数据库，从而对数据库CPU和内存造成巨大压力，严重将造成整个系统的崩溃。\n        例如：我们设置缓存时采用了\
+  相同的过期时间，在同一时刻出现大面积的缓存过期\n\n7.HTTP请求方式\n    GET、POST 、HEAD、OPTIONS、PUT、DELETE、TRACE\
+  \ 、CONNECT\n\n8.数据库索引的结构\n    索引的原理：平衡树（非二叉）、也就是b tree或者b+ tree。\n\n二、二轮技术面（20分钟\
+  ）\n1.Redis的数据类型\n    （1）String 字符串       key value都是String类型\n    （2）Hash     哈希\
+  \      存储对象类型  一个key对象一个map对象\n    （3）List     列表      有顺序可重复\n    （4）Set\n    （\
+  5）zset     有序集合  有顺序不能重复\n\n\n\n2.简述一下Maven，知道的都      集合      无顺序不能重复说出来\n    (1)依\
+  赖管理 Maven工程对jar包的管理\n    (2)项目构建 mvn相关命令\n\n    本地仓库、远程仓库(私服)、中央仓库\n    clean（清除\
+  ）、compile（编译）、install（安装到本地仓库）、package（打包到当前项目路径）、deploy（打包发布到远程仓库）\n    Maven三大\
+  生命周期：\n        (1)clean生命周期    (2)default生命周期      (3)site生命周期\n    https://www.cnblogs.com/sgh1023/p/10900130.html\n\
+  \n3.Java设计模式、生产者消费者模型\n    单例模式：单例类只能有一个实例、单例类必须创建自己的唯一实例\n    工厂模式：在编码的时候不能预见需要\
+  创建哪种类的实例。\n    生产者消费者模型(多线程)：过一个容器来解决生产者和消费者的强耦合问题。\n                          \
+  \  生产者和消费者彼此之间不直接通讯，而通过阻塞队列来进行通讯，\n\n\n4.Java的集合，更新用ArrayList好还是用LinkedList好？\n\
+  \    List下有ArrayList，Vector，LinkedList\n    Set下有HashSet，LinkedHashSet，TreeSet\n\
+  \    Map下有Hashtable，LinkedHashMap，HashMap，TreeMap\n\n    (1)LinkedList是链表，查询慢，增删\
+  快。ArrayList，Vector是数组 查询快，增删慢\n    (2)HashSet 哈希表  LinkedHashSet 链表和哈希表  TreeSet\
+  \ 红黑树\n    (3)HashTable 线程安全 HashMap线程不安全  HashMap效率高\n\n    https://blog.csdn.net/zhangqunshuai/article/details/80660974\n\
+  \n5.数据库索引，在那些字段上加上索引好？\n    为什么使用索引：查询快\n    索引的结构：B-Tree\n    数据库表中那些字段需要使用索引：\n\
+  \        1.表的主键、外键必须有索引\n        2.经常出现在where语句中的字段\n        3.频繁进行数据操作的表，不要建立太多\
+  的索引。\n        4.经常与其他表进行连接的表，在连接字段上应该建立索引\n\n6.使用Java的时候常用的工具类\n    1.字符串工具类 StringUtils\n\
+  \    2.集合工具类 CollectionUtils、CollectionUtils\n    3.数组工具类 ArrayUtils\n    4.Json工\
+  具类 fastJson\n\n7.Docker及DockerFile\n    Docker概念：虚拟化  应用封装、分发、部署、运行\n    Docker三\
+  大核心概念：镜像、容器、仓库\n    Docker相关命令：\n        docker images、docker pull、docker restart\n\
+  \        docker run --name 名称 -p 端口映射 -v 目录映射  镜像名\n        docker ps、docker ps\
+  \ -a\n    Dockerfile:来构建镜像的文本文件\n        Dockerfile 的内容分为四个部分：基础镜像信息、维护者信息、镜像操作指\
+  令、容器启动时执行指令\n            #指定镜像\n            FROM primetoninc/jdk:1.8\n         \
+  \   #拷贝宿主机的app.jar\n            COPY app.jar app.jar\n            #配置端口\n      \
+  \      EXPOSE 8080\n            #运行app.jar包\n            ENTRYPOINT exec java -jar\
+  \ app.jar\n\n       https://blog.csdn.net/a15712399740/article/details/95588792\n\
+  \       docker build -t nginx:test .\n       将dockerfile构建为一个docker镜像\n\n\n\n\n"
+type: null
+options: null
+introduction: null

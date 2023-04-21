@@ -1,0 +1,14 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "合肥-全芯智造"
+  level: null
+  other: null
+subject: "\n\n## Shell常用命令：\n\n性能相关的常用命令和指标的含义\n\n## 常用的自动化框架和自动化脚本的编写\n\n## 性能测试：\
+  \n* 公司的性能测试指标有哪些，\n* 工作中如何去做的，\n* 用的什么工具\n\n## Docker的运用。\n* 如何判断docker服务器发送网络服务\
+  是不是好的？\n\n## 开放式的问题\n* 比如站在一个测试角度，\n* 如何做能提升项目的质量？\n* 如何避免或者减少生产问题的发生，你们公司使用了什么方\
+  法和工具？\n* 还有你认为自动化测试有无必要\n\n## 测试的基本问题。\n* 常用的测试方法是什么，\n* 然后给一个场景，使用测试方法现场列出测试点。"
+type: null
+options: null
+introduction: null

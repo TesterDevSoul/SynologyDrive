@@ -1,0 +1,14 @@
+---
+answer: null
+label:
+  chapter: null
+  company: "北京-京东"
+  level: null
+  other: null
+subject: "## 测试流程\n\n* 平时如何进行测试工作？测试的什么模块？怎么测的这个模块？\n* 测试流程大概是什么？\n## 测试用例设计\n* 给你\
+  一个购物车界面，你怎么测试？\n* 怎么测试手机相机功能？\n\n## 接口测试\n* 平时用的测试框架是什么？pytest框架下怎么入参？\n## Linux\n\
+  * Linux中怎么杀死进程？\n\n## Python 相关\n* Python 函数怎么传入可变参数？ *arg **kwarg的类型是什么？\n## 数据\
+  库\n* Mysql的增删改查，统计表中的成绩最好的两个同学的名字，年级等\n\n## 软技能\n 你今后的职业规划？能否接受加班等？"
+type: null
+options: null
+introduction: null
